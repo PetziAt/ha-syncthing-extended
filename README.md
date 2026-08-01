@@ -8,6 +8,7 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Csontikka_ha-syncthing-extended&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Csontikka_ha-syncthing-extended)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Csontikka_ha-syncthing-extended&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Csontikka_ha-syncthing-extended)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Csontikka_ha-syncthing-extended&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Csontikka_ha-syncthing-extended)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-ea4aaa.svg?style=plastic&logo=githubsponsors)](https://github.com/sponsors/Csontikka)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-yellow.svg?style=plastic)](https://buymeacoffee.com/Csontikka)
 
 > **Note:** For best viewing experience, read this documentation on [GitHub](https://github.com/Csontikka/ha-syncthing-extended).
