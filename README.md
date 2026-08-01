@@ -290,4 +290,4 @@ Available in 30 languages:
 
 Found a bug or have an idea? [Open an issue](https://github.com/Csontikka/ha-syncthing-extended/issues) — feedback and feature requests are welcome!
 
-If you find this integration useful, consider [buying me a coffee](https://buymeacoffee.com/Csontikka).
+If you find this integration useful, consider [buying me a coffee](https://buymeacoffee.com/Csontikka) or [sponsoring me on GitHub](https://github.com/sponsors/Csontikka).
